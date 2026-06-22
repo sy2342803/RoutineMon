@@ -226,6 +226,13 @@ npm start
 > 개발 중 자동 재시작: `npm run dev` (nodemon)
 
 ---
+## 최종 발표용 배포 코드 
+버셀 링크 첨부
+https://routine-mon-six.vercel.app/
+
+학교 배포용 링크 (학교 클라우드 사용중이라 일시적일 가능성 있음)
+http://2342803.dauswc.org/
+
 
 ## 📄 문서
 
